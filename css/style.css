@@ -1,0 +1,13 @@
+body {
+    background-color: RGB(26,26,26);
+}
+h1 {
+	color: white;
+	font-family: verdana;
+	font-size: 300%;
+}
+p {
+	color: white;
+	font-family: verdana;
+	font-size: 100%;
+}
